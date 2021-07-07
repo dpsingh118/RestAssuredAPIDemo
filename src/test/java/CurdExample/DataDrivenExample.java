@@ -38,6 +38,8 @@ public class DataDrivenExample {
         request.put("subjectId", subjectId);
         request.put("subjectId", subjectId);
         request.put("subjectId", subjectId);
+        request.put("subjectId", subjectId);
+        request.put("subjectId", subjectId);
         given().
                 contentType(ContentType.JSON).
                 accept(ContentType.JSON).
